@@ -4,8 +4,19 @@
 
 Materials provided:
 
-- Workshop slides
+- Workshop [slides](WUSS2018-HOW-Everything_Is_Better_With_Friends-slides.pdf)
 
-- Jupyter Notebook file with 12 detailed examples; developed using [SAS University Edition](https://www.sas.com/en_us/software/university-edition.html).
+- All Workshop examples in [Jupyter Notebook](WUSS2018-HOW-Everything_Is_Better_With_Friends-examples.ipynb) format
 
-A link to the corresponding academic paper will be added after conference proceedings are published.
+All development was done with SAS University Edition ([https://www.sas.com/en_us/software/university-edition/download-software.html](https://www.sas.com/en_us/software/university-edition/download-software.html)). Any deviation from this setup might require modifications to example code.
+
+## License
+This project is licensed under the MIT License; see the [LICENSE](LICENSE) file for details.
+
+## Authors
+* [ilankham](https://github.com/ilankham)
+* [mtslaugh](https://github.com/mtslaugh)
+
+## Disclaimer
+
+This project is in no way affiliated with SAS Institute Inc.
