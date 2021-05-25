@@ -2,7 +2,7 @@
 
 # Everything is better with friends: Executing SAS code in Python scripts with SASPy
 
-### Materials from a Hands-on Workshop at the [Western Users of SAS Software (WUSS) conference](http://wuss18.org) in Sacramento, California, on September 6, 2018.
+### Materials from a Hands-on Workshop at the [Western Users of SAS Software (WUSS) conference](https://wuss18.wuss.org/) in Sacramento, California, on September 6, 2018.
 
 Materials provided:
 
