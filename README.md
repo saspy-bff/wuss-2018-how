@@ -6,9 +6,9 @@
 
 Materials provided:
 
-- Workshop [slides](WUSS2018-HOW-Everything_Is_Better_With_Friends-slides.pdf)
+- Workshop [slides](Slides-WUSS2018-HOW-Everything_Is_Better_With_Friends.pdf)
 
-- All Workshop examples in [Jupyter Notebook](WUSS2018-HOW-Everything_Is_Better_With_Friends-examples.ipynb) format
+- All Workshop examples in [Jupyter Notebook](Examples-WUSS2018-HOW-Everything_Is_Better_With_Friends.ipynb) format
 
 ## Prerequisites
 
